@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lykarius
 - 👀 I’m interested in ... scandinavian culture, japan in general, JDM, coding, videogames and seals!
-- 🌱 I’m currently learning ... JavaScript, Java, C#
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
